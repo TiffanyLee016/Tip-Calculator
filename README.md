@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://photos.app.goo.gl/2w1gssLyAfPSfDSB9'/>
+[Tip Calculator Walkthrough]("https://photos.app.goo.gl/2w1gssLyAfPSfDSB9") 
 
 Gif created with Kap 
 
