@@ -38,7 +38,7 @@ I had trouble with the constraints: I tried watching a few videos on Youtube, bu
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [Tiffany Lee]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
